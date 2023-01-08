@@ -1,0 +1,32 @@
+ul{
+    justify-content: center;
+    list-style: none;
+    display:flex;
+    padding:1em;
+    box-sizing: content-box;
+    background-color:skyblue;     
+}   
+
+ul li{
+    margin: 0 1em;
+    font-size: 2rem;
+    text-decoration: none;   
+}
+ 
+body{
+
+    background-image: url(./images/nagaraj.png);
+    background-repeat: no-repeat;
+    background-size: 100%;   
+
+}
+div ol li{
+
+    color: red;
+    font-size: 25px;
+    
+    
+}
+
+
+
