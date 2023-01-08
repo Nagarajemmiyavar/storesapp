@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/storesapp/static/css/main.81ba55cc.css",
+    "main.js": "/storesapp/static/js/main.418ac4f9.js",
+    "static/media/nagaraj.png": "/storesapp/static/media/nagaraj.751c6f41ca11af26c2b5.png",
+    "index.html": "/storesapp/index.html",
+    "main.81ba55cc.css.map": "/storesapp/static/css/main.81ba55cc.css.map",
+    "main.418ac4f9.js.map": "/storesapp/static/js/main.418ac4f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81ba55cc.css",
+    "static/js/main.418ac4f9.js"
+  ]
+}
