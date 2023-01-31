@@ -20,12 +20,12 @@ import React from 'react'
 
   return (
     <div className="ui main">
-    <form onSubmit={add}>
+    <form>
     <input type="text"
     value={product}
     onChange={(e)=>setproduct(e.target.value)}/>
     <br/><br/>
-    <button className='ui button red' >add</button>
+    <button onSubmit={add} >Add</button>
     </form>
     
     
