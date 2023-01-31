@@ -25,7 +25,7 @@ import React from 'react'
     value={product}
     onChange={(e)=>setproduct(e.target.value)}/>
     <br/><br/>
-    <button onSubmit={add}>Add</button>
+    <button onSubmit={add}>ADD</button>
     </form>
     
     
